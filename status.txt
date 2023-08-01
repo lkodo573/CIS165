@@ -1,0 +1,14 @@
+//What's good;
+public class retard
+{
+bool is_retard = true;
+bool retarded;
+static void whatthe()
+  {
+    if(is_retard)
+    {
+      retarded = true;
+  
+    }
+  }
+}
